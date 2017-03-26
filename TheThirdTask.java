@@ -15,12 +15,11 @@ public class TheThirdTask {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Input radius: ");
 		double r = sc.nextDouble();
-		double pi = 3.1415;
 
 		//Circumference
 		
 		double s;
-		s = 2*pi*r;
+		s = 2*math.PI*r;
 		System.out.println("Circumference is equal to : "+s);
 	}
 
