@@ -1,3 +1,7 @@
+/*Разобраться с 16-й системой исчисления. Узнать какое
+число зашифровано в названии группы ACDC
+*/
+
 package com.gmail.kievsten;
 import java.util.*;
 public class TheFourthTask {
