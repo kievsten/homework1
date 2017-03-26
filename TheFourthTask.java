@@ -14,8 +14,8 @@ public class TheFourthTask {
 		
 		int acdc;
 		
-		ACDC = (int) (c*(Math.pow(16, 0))+(d*(Math.pow(16, 1)))+(c*(Math.pow(16, 2)))+(a*(Math.pow(16, 3))));
-		System.out.println("Encrypted number is: "+ACDC);
+		acdc = (int) (c*(Math.pow(16, 0))+(d*(Math.pow(16, 1)))+(c*(Math.pow(16, 2)))+(a*(Math.pow(16, 3))));
+		System.out.println("Encrypted number is: "+acdc);
 		//Encrypted number is: 44252
 	}
 
