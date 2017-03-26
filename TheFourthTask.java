@@ -12,7 +12,7 @@ public class TheFourthTask {
 		int c = 12;
 		int d = 13;
 		
-		int ACDC;
+		int acdc;
 		
 		ACDC = (int) (c*(Math.pow(16, 0))+(d*(Math.pow(16, 1)))+(c*(Math.pow(16, 2)))+(a*(Math.pow(16, 3))));
 		System.out.println("Encrypted number is: "+ACDC);
